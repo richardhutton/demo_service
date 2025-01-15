@@ -1,0 +1,55 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+env.bak/
+venv.bak/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# FastAPI specific
+*.db
+*.sqlite3
+
+# Log files
+*.log
+
+# Temporary files
+*.bak
+*.swp
+*.swo
+
+# Test and coverage reports
+*.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
+*.tox/
+*.nox/
+*.coverage
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Dist directories
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
